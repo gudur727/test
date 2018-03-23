@@ -1,4 +1,4 @@
 node default {
 include motd
-include nrpe
+#include nrpe
 }
